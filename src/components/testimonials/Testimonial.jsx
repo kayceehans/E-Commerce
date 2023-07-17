@@ -3,9 +3,9 @@ import './Testimonial'
 
 const testimonial = () => {
   return (
-    <div>
+    <section id='testimonial'>
       Testimonial
-    </div>
+    </section>
   )
 }
 

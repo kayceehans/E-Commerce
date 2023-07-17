@@ -3,9 +3,9 @@ import './Portfolio'
 
 const portfolio = () => {
   return (
-    <div>
+    <section id='portfolio'>
       Portfolio
-    </div>
+    </section>
   )
 }
 
